@@ -4,7 +4,7 @@ require 'pry'
 def speak_to_grandma(words)
 	puts words
 	if words == "I LOVE YOU GRANDMA!"
-		puts "I LOVE YOU TOO PUMPKIN!"
+		"I LOVE YOU TOO PUMPKIN!"
 	end
 end
 
